@@ -1,0 +1,14 @@
+GET     /api/interests
+POST    /api/interests
+
+GET     /api/interests/{id}
+PATCH   /api/interests/{id}
+PUT     /api/interests/{id}
+DELETE  /api/interests/{id}
+
+---===---
+
+GET     /api/interests/{id}/people
+GET     /api/interests/{id}/groups
+GET     /api/interests/{id}/cities
+GET     /api/interests/{id}/states

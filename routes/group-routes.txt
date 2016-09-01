@@ -1,0 +1,17 @@
+GET     /api/groups
+POST    /api/groups
+
+GET     /api/groups/{id}
+PATCH   /api/groups/{id}
+PUT     /api/groups/{id}
+DELETE  /api/groups/{id}
+
+GET     /api/groups/{id}/city
+PUT     /api/groups/{id}/city
+
+GET     /api/groups/{id}/interest
+PUT     /api/groups/{id}/interest
+
+GET     /api/groups/{id}/members
+PUT     /api/groups/{id}/members
+DELETE  /api/groups/{id}/members/{id}

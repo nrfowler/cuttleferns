@@ -1,0 +1,7 @@
+{
+  "id": "number",
+  "name": "string",
+  "city": "city object",
+  "interests": "interest array",
+  "groups": "group array"
+}

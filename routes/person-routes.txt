@@ -1,0 +1,18 @@
+GET     /api/people
+POST    /api/people
+
+GET     /api/people/{id}
+PATCH   /api/people/{id}
+PUT     /api/people/{id}
+DELETE  /api/people/{id}
+
+GET     /api/people/{id}/city
+PUT     /api/people/{id}/city
+
+GET     /api/people/{id}/interests
+PUT     /api/people/{id}/interests
+DELETE  /api/people/{id}/interests/{id}
+
+GET     /api/people/{id}/groups
+PUT     /api/people/{id}/groups
+DELETE  /api/people/{id}/groups/{id}
