@@ -3,7 +3,6 @@ POST    /api/groups
 
 GET     /api/groups/{id}
 PATCH   /api/groups/{id}
-PUT     /api/groups/{id}
 DELETE  /api/groups/{id}
 
 GET     /api/groups/{id}/city

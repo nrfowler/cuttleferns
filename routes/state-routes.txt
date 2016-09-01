@@ -3,11 +3,7 @@ POST    /api/states
 
 GET     /api/states/{id}
 PATCH   /api/states/{id}
-PUT     /api/states/{id}
 DELETE  /api/states/{id}
-
-GET     /api/states/{id}/state
-PUT     /api/states/{id}/state
 
 ---===---
 
@@ -17,6 +13,6 @@ GET     /api/states/{id}/people
 GET     /api/states/{id}/groups
 
 GET     /api/states/{id}/interests
-GET     /api/states/{id}/interests/{id}
+GET     /api/states/{id}/interests/{id}/cities
 GET     /api/states/{id}/interests/{id}/people
 GET     /api/states/{id}/interests/{id}/groups

@@ -3,7 +3,6 @@ POST    /api/interests
 
 GET     /api/interests/{id}
 PATCH   /api/interests/{id}
-PUT     /api/interests/{id}
 DELETE  /api/interests/{id}
 
 ---===---

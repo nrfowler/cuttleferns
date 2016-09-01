@@ -3,7 +3,6 @@ POST    /api/people
 
 GET     /api/people/{id}
 PATCH   /api/people/{id}
-PUT     /api/people/{id}
 DELETE  /api/people/{id}
 
 GET     /api/people/{id}/city

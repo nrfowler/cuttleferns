@@ -3,7 +3,6 @@ POST    /api/cities
 
 GET     /api/cities/{id}
 PATCH   /api/cities/{id}
-PUT     /api/cities/{id}
 DELETE  /api/cities/{id}
 
 GET     /api/cities/{id}/state
@@ -15,6 +14,5 @@ GET     /api/cities/{id}/people
 GET     /api/cities/{id}/groups
 
 GET     /api/cities/{id}/interests
-GET     /api/cities/{id}/interests/{id}
 GET     /api/cities/{id}/interests/{id}/people
 GET     /api/cities/{id}/interests/{id}/groups
